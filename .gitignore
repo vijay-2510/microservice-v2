@@ -1,3 +1,6 @@
 .idea
 limits-service/.gitignore
 limits-service/.mvn/
+currency-exchange-service/mvnw
+currency-exchange-service/mvnw.cmd
+currency-exchange-service/.mvn/*
