@@ -4,3 +4,6 @@ limits-service/.mvn/
 currency-exchange-service/mvnw
 currency-exchange-service/mvnw.cmd
 currency-exchange-service/.mvn/*
+currency-conversion-service/mvnw
+currency-conversion-service/mvnw.cmd
+currency-conversion-service/.mvn/*
