@@ -7,3 +7,6 @@ currency-exchange-service/.mvn/*
 currency-conversion-service/mvnw
 currency-conversion-service/mvnw.cmd
 currency-conversion-service/.mvn/*
+naming-server/mvnw
+naming-server/mvnw.cmd
+naming-server/.mvn/*
