@@ -10,3 +10,6 @@ currency-conversion-service/.mvn/*
 naming-server/mvnw
 naming-server/mvnw.cmd
 naming-server/.mvn/*
+api-gateway/mvnw
+api-gateway/mvnw.cmd
+api-gateway/.mvn/*
