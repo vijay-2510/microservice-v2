@@ -95,7 +95,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<image>
-						<name>kumarvijay2510/microservices-v3-${project.artifactId}:${project.version}-</name>
+						<name>kumarvijay2510/microservices-v3-${project.artifactId}:${project.version}</name>
 					</image>
 					<pullPolicy>IF_NOT_PRESENT</pullPolicy>
 				</configuration>
