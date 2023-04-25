@@ -5,7 +5,7 @@ services:
     image: kumarvijay2510/microservices-v3-currency-exchange-service:0.0.1-SNAPSHOT
     mem_limit: 700m
     ports:
-      - "8000:800"
+      - "8000:8000"
     networks:
       - currency-network
     depends_on:
@@ -17,7 +17,7 @@ services:
     image: kumarvijay2510/microservices-v3-currency-conversion-service:0.0.1-SNAPSHOT
     mem_limit: 700m
     ports:
-      - "8000:800"
+      - "8100:8100"
     networks:
       - currency-network
     depends_on:
